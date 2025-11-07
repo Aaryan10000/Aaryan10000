@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="365" padding-botton="50" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-
 - 🔭 I’m currently working on **developing my skillsets.**
 
 - 🌱 I’m currently learning **DSA.**
@@ -29,3 +28,5 @@
 )
 
 ------------------------------------------------------------------------------
+[![Aaryan's Holopin Board](https://holopin.me/aaryan10000)](https://holopin.io/@aaryan10000)
+
